@@ -1,0 +1,10 @@
+these are the required libraries for this project:
+
+1.tensorflow
+2.keras
+3.pandas
+4.numpy
+5.jupyter
+6.notebook
+7.tqdm
+8.opencv-contrib-python
